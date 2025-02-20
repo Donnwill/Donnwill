@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Donnwill
-- 👀 I’m interested in working with flutter
-- 🌱 I’m currently learning masters in space engineering
-- 💞️ I’m looking to collaborate on challenging flutter projects
-- 📫 How to reach me +49 15129514033
+- 👀 I’m interested in working with Flutter and Dart, React and Typescript 
+- 💞️ I’m looking to collaborate on challenging Flutter and React projects
+- 📫 How to reach me +49 15510191300
 
 <!---
 Donnwill/Donnwill is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
