@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Donnwill
-- 👀 I’m interested in working with Flutter and Dart, React and Typescript 
-- 💞️ I’m looking to collaborate on challenging Flutter and React projects
+- 👀 I’m interested in working with Flutter and Dart, React and Typescript, Rust 
+- 💞️ I’m looking to collaborate on challenging Flutter, React or Rust projects
 - 📫 How to reach me +49 15510191300
 
 <!---
